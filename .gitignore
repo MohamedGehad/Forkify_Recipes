@@ -1,0 +1,8 @@
+node_modules
+<<<<<<< Updated upstream
+dist
+.parcel-cache
+=======
+>>>>>>> Stashed changes
+.gitattributes
+.gitattributes
